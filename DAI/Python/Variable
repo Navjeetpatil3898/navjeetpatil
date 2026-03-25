@@ -1,3 +1,16 @@
+/* 
+  Variable - Variables are containers for storing data values.
+             A symbolic name (or label) that acts as a reference to an object or value stored in memory.
+
+
+- Naming Rules and Conventions
+  * Variable names must adhere to specific rules: 
+1. Must start with a letter (a-z, A-Z) or an underscore (_).
+2. Cannot start with a number.
+3. Can only contain alpha-numeric characters and underscores (A-z, 0-9, and _).
+4. Cannot be a Python keyword (e.g., if, else, for, class). 
+*/
+
 //Initializa Variable & print the value
 
 a = 10;
