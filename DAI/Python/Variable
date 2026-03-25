@@ -9,6 +9,7 @@
 2. Cannot start with a number.
 3. Can only contain alpha-numeric characters and underscores (A-z, 0-9, and _).
 4. Cannot be a Python keyword (e.g., if, else, for, class). 
+5. Python is a Case-Sensitive language.
 */
 
 //Initializa Variable & print the value
