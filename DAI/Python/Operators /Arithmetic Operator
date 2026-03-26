@@ -19,7 +19,7 @@
 
 // 1. Arithmetic Operators
 
-    a = 10
+a = 10
 b = 20
 
 // Addition
@@ -35,6 +35,11 @@ print(a * b)
 print(a / b)
 
 // Floor Division
+   /*
+      values      - 1.6
+      ceil value  - 2
+      Floor Value - 1
+   */
 print(a // b)
 
 // Modulus
@@ -44,4 +49,7 @@ print(b % a)
 print(a % b)
 
 // Exponential
+  /*
+     a ^ b
+  */
 print(a ** b)
