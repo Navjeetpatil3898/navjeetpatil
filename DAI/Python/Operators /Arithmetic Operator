@@ -1,4 +1,4 @@
-/* Operators - Operators are mathematical Symbols.Which are used to perform Logical & Arithmetical Operation.
+''' Operators - Operators are mathematical Symbols.Which are used to perform Logical & Arithmetical Operation.
 
    Operators are the constructs which can manipulate the value of operands
    - Ex: 1. a= 2 , b = 3  => a + b
@@ -15,41 +15,40 @@
          - Membership Operators
          - Identity Operators
          - Bitwise Operators'''
-* /
+'''
 
-// 1. Arithmetic Operators
+# 1. Arithmetic Operators
 
 a = 10
 b = 20
 
-// Addition
+# Addition
 print(a + b)
 
-// Subtraction
+# Subtraction
 print(a - b)
 
-// Multiplication
+# Multiplication
 print(a * b)
 
-// Division 
+# Division 
 print(a / b)
 
-// Floor Division
-   /*
-      values      - 1.6
-      ceil value  - 2
-      Floor Value - 1
-   */
+# Floor Division
+''' values- 1.6 
+    ceil value - 2
+    Floor Value - 1 
+'''
 print(a // b)
 
-// Modulus
+# Modulus
 print(b % a)
 
-// Modulus
+# Modulus
 print(a % b)
 
-// Exponential
-  /*
+# Exponential
+'''
      a ^ b
-  */
+'''
 print(a ** b)
