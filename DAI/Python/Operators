@@ -1,1 +1,47 @@
+/* Operators - Operators are mathematical Symbols.Which are used to perform Logical & Arithmetical Operation.
 
+   Operators are the constructs which can manipulate the value of operands
+   - Ex: 1. a= 2 , b = 3  => a + b
+         2. 2 + 3 = 5
+   - where, a and b Or 2 and 3 are called operands and + is called operator
+
+
+   *Types of Operators:*
+
+         - Arithmetic Operators
+         - Comparison (Relational) Operators
+         - Assignment Operators
+         - Logical Operators
+         - Membership Operators
+         - Identity Operators
+         - Bitwise Operators'''
+* /
+
+// 1. Arithmetic Operators
+
+    a = 10
+b = 20
+
+// Addition
+print(a + b)
+
+// Subtraction
+print(a - b)
+
+// Multiplication
+print(a * b)
+
+// Division 
+print(a / b)
+
+// Floor Division
+print(a // b)
+
+// Modulus
+print(b % a)
+
+// Modulus
+print(a % b)
+
+// Exponential
+print(a ** b)
