@@ -1,1 +1,26 @@
+## Assignment Operators
 
+a = 10 ; b = 20
+c = a + b  
+print(c) # O/P = 30
+
+c += b   # Can be read as c = c + b
+print(c) # O/P = 50
+
+c -= b
+print(c) # O/P = 30
+
+c *= b
+print(c) # O/P = 600
+
+c /= b
+print(c) # O/P = 30.0
+
+c %= b
+print(c) # O/P = 10.0
+
+c **= b
+print(c) # O/P = 1e+20
+
+c //= b
+print(c) # O/P = 5e+18
