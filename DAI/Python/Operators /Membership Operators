@@ -1,1 +1,12 @@
+## Membership Operators
+'''
+It will check whether left value in a 
+member of right value or not
+'''
+print("y" in "Python") # O/P = True
 
+print("l" in "Python") # O/P = False
+
+print("p" in "Python") # O/P = False
+
+print("P" not in "Python") # O/P = True
