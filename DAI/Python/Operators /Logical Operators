@@ -1,1 +1,20 @@
+## Identity Operators
+'''
+- It will check whether left value is equal to
+ the right value or not
+
+"python" is "Python" 
+'''
+
+print(1 is 1) # O/P = True
+
+print(2 is 1)  # O/P = False
+
+print("python" is "Python") # O/P = False
+
+print(1 is 0) # O/P = False
+
+print(1 is not 1) # O/P = False
+
+print("hi hello"  is not  "hello hi") # O/P = True
 
