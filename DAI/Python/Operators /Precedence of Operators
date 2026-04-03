@@ -1,0 +1,8 @@
+## Precedence of Operators
+
+# - If an expression contains more than one operator, then order of evaluation depends on the order of operations
+# - `PEMDAS` (Parentheses, Exponentiation, Multiplication, Division, Addition, Subtraction)
+#     - Parentheses have the highest precedence and can be used to force an expression to evaluate in the order that we want
+#     - Exponentiation has the next highest precedence
+#     - Multiplication and Division have higher precedence than Addition and Subtraction
+#     - Operators with the same precedence are evaluated from left to right (except exponentiation)
